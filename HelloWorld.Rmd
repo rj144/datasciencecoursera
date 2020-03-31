@@ -1,8 +1,10 @@
 ---
-title: "HelloWorld"
+title: "HelloWorld.md"
 author: "Rishab Jain"
 date: "31/03/2020"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
